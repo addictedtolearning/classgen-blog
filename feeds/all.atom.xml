@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Tom's Teaching Tidbits</title><link href="http://classgen.com/blog/" rel="alternate"></link><link href="http://classgen.com/blog/feeds/all.atom.xml" rel="self"></link><id>http://classgen.com/blog/</id><updated>2018-07-22T11:00:00+09:30</updated><entry><title>Digital Technologies? Help me! Where do I even start?</title><link href="http://classgen.com/blog/digital-technologies-help-me-where-do-i-even-start.html" rel="alternate"></link><published>2018-07-22T11:00:00+09:30</published><updated>2018-07-22T11:00:00+09:30</updated><author><name>Tom Ranieri</name></author><id>tag:classgen.com,2018-07-22:/blog/digital-technologies-help-me-where-do-i-even-start.html</id><summary type="html">&lt;div class="toc"&gt;&lt;span class="toctitle"&gt;Table of contents:&lt;/span&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href="#introduction"&gt;Introduction&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#foundation-to-year-2"&gt;Foundation to Year 2&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href="#with-tech"&gt;💻 With tech:&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#without-tech"&gt;📝 Without tech:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#with-tech-beebots"&gt;💻 With tech: BeeBots 🐝&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#without-tech-reduce-reuse-recycle"&gt;📝 Without tech: Reduce, reuse, recycle&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href="#years-3-and-4"&gt;Years 3 and 4&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href="#with-tech_1"&gt;💻 With tech:&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#without-tech_1"&gt;📝 Without tech:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#with-tech-lego-mindstorms"&gt;💻 With tech: LEGO Mindstorms 🤖&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#without-tech-unplugged"&gt;📝 Without tech: Unplugged 🔌&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href="#years-5-and-6"&gt;Years 5 and 6&lt;/a&gt;&lt;ul&gt;
@@ -20,17 +20,16 @@
 &lt;li&gt;&lt;a href="#with-tech-bbc-microbit-30-each"&gt;💻 With tech: BBC Microbit ($30 each)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;a href="#years-9-and-10"&gt;Years 9 and 10&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href="#with-tech-grok-learning-ncss-challenge-20-per-year-per-student-or-30-per-student-for-all-access"&gt;💻 With tech: Grok Learning NCSS …&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="toc"&gt;&lt;span class="toctitle"&gt;Table of contents:&lt;/span&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="#years-9-and-10"&gt;Years 9 …&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="toc"&gt;&lt;span class="toctitle"&gt;Table of contents:&lt;/span&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href="#introduction"&gt;Introduction&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#foundation-to-year-2"&gt;Foundation to Year 2&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href="#with-tech"&gt;💻 With tech:&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#without-tech"&gt;📝 Without tech:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#with-tech-beebots"&gt;💻 With tech: BeeBots 🐝&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#without-tech-reduce-reuse-recycle"&gt;📝 Without tech: Reduce, reuse, recycle&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href="#years-3-and-4"&gt;Years 3 and 4&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href="#with-tech_1"&gt;💻 With tech:&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#without-tech_1"&gt;📝 Without tech:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#with-tech-lego-mindstorms"&gt;💻 With tech: LEGO Mindstorms 🤖&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#without-tech-unplugged"&gt;📝 Without tech: Unplugged 🔌&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href="#years-5-and-6"&gt;Years 5 and 6&lt;/a&gt;&lt;ul&gt;
@@ -44,9 +43,10 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;a href="#years-9-and-10"&gt;Years 9 and 10&lt;/a&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href="#with-tech-grok-learning-ncss-challenge-20-per-year-per-student-or-30-per-student-for-all-access"&gt;💻 With tech: Grok Learning NCSS Challenge ($20 per year, per student, or $30 per student for all-access)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#without-tech-planning-computer-programs"&gt;📝 Without tech: Planning computer programs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#without-tech-planning-computer-programs"&gt;📝 Without tech: Planning computer programs 🤔&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;&lt;a href="#where-to-from-here"&gt;Where to from here?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
@@ -58,7 +58,7 @@
 &lt;p&gt;&lt;strong&gt;"Computer science is no more about computers than astronomy is about telescopes."&lt;/strong&gt; - Edsger Dijkstra&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id="foundation-to-year-2"&gt;Foundation to Year 2&lt;/h2&gt;
-&lt;h3 id="with-tech"&gt;💻 With tech:&lt;/h3&gt;
+&lt;h3 id="with-tech-beebots"&gt;💻 With tech: BeeBots 🐝&lt;/h3&gt;
 &lt;video autoplay loop style="width:40%;padding:0px 10px; float:right"&gt;
   &lt;source src="http://classgen.com/blog/images/beebot-obstacle-course-short-compressed.mp4" type="video/mp4"&gt;
 &lt;/video&gt;
@@ -68,7 +68,7 @@
 &lt;p&gt;If you've ever tried to get a classroom full of 5-year-olds to follow a series of instructions on an iPad, you'll know how painful it can be to keep them engaged in a world of possibility.&lt;/p&gt;
 &lt;p&gt;BeeBots are bright yellow robots, specifically designed for young little kidlets. Almost indestructible, they only have 7 buttons on them so that students can program very simple instructions for their bee.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://barefootcas.org.uk/wp-content/uploads/2014/09/Bee-Bots-1-2-3-Activity-Barefoot-Computing2.pdf"&gt;Get the lesson plan from Barefoot Computing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id="without-tech"&gt;📝 Without tech:&lt;/h3&gt;
+&lt;h3 id="without-tech-reduce-reuse-recycle"&gt;📝 Without tech: Reduce, reuse, recycle&lt;/h3&gt;
 &lt;p&gt;Let's be real: 1-1 devices cost a bloody fortune. Even if your school can afford to have iPad for each student, failures are inevitable (just like in learning!).&lt;/p&gt;
 &lt;p&gt;The easiest way to do Digital Technologies without tech, is to realise that &lt;em&gt;you are already doing Digital Technologies&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;🐻 Bear with me for a minute, and check out these content descriptions.&lt;/p&gt;
@@ -92,7 +92,7 @@
 
 &lt;p&gt;That's why it's important to check the DigiTech curriculum to see what you've covered, and then just plug in the gaps.&lt;/p&gt;
 &lt;h2 id="years-3-and-4"&gt;Years 3 and 4&lt;/h2&gt;
-&lt;h3 id="with-tech_1"&gt;💻 With tech:&lt;/h3&gt;
+&lt;h3 id="with-tech-lego-mindstorms"&gt;💻 With tech: LEGO Mindstorms 🤖&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Using:&lt;/strong&gt; LEGO Mindstorms EV3 (about $390 per kit, can be used in very small groups), typically with an iPad&lt;/p&gt;
 &lt;video autoplay loop style="width:40%;padding:0px 10px; float:right"&gt;
   &lt;source src="http://classgen.com/blog/images/ev3.mp4" type="video/mp4"&gt;
@@ -106,7 +106,7 @@
 &lt;li&gt;problem-solving issues along the way, and building resilience in the process&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In the programming itself, I seen the LEGO EV3 robots used with Year 3, 4, 10 and even &lt;a href="https://www.adelaide.edu.au/course-outlines/006263/1/sem-2"&gt;university-level students&lt;/a&gt;. There is a lot of scope to go up or down.&lt;/p&gt;
-&lt;h3 id="without-tech_1"&gt;📝 Without tech:&lt;/h3&gt;
+&lt;h3 id="without-tech-unplugged"&gt;📝 Without tech: Unplugged 🔌&lt;/h3&gt;
 &lt;p&gt;We're getting into CS Unplugged territory here -- a great resource!&lt;/p&gt;
 &lt;p&gt;CS Unplugged have loads of resources for this age group, like the &lt;a href="https://csunplugged.org/en/topics/kidbots/"&gt;kidbots unit plan&lt;/a&gt;. This is probably my favourite technique to teach computer science: get students to plan out an algorithm, then physically walk out that algorithm. You can also get the kids to give instructions for you, which makes for &lt;a href="https://youtu.be/cDA3_5982h8"&gt;a very entertaining lesson&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id="years-5-and-6"&gt;Years 5 and 6&lt;/h2&gt;
@@ -138,7 +138,7 @@
 &lt;li&gt;It doesn't go all helicopter-mum and stop them making mistakes. Instead, it guides students back to the solution when they inevitably make an error.&lt;/li&gt;
 &lt;li&gt;You can display the leaderboard during your lesson if you want to, and this competitive streak is great for both ends of the class. I know there are loads of counterarguments against leaderboards, but I've found that students at the bottom get a major wriggle-on when they actually realise that they need to put in the hard yards.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="without-tech-planning-computer-programs"&gt;📝 Without tech: Planning computer programs&lt;/h3&gt;
+&lt;h3 id="without-tech-planning-computer-programs"&gt;📝 Without tech: Planning computer programs 🤔&lt;/h3&gt;
 &lt;p&gt;&lt;img src="images/ux-sketching-7-e1513571125563.jpg" style="width:30%; float:right"/&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Plan and manage projects using an iterative and collaborative approach, identifying risks and considering safety and sustainability (ACTDIP044)&lt;/li&gt;
@@ -149,4 +149,8 @@
 &lt;li&gt;Create a flowchart that a computer could use to solve a problem. There are heaps of &lt;a href="https://www.edrawsoft.com/flowchart-examples-for-students.php"&gt;examples of flowcharts that you can show to students&lt;/a&gt;, which I've found is the best way to demonstrate the ♢&amp;nbsp;diamonds for decisions and the ▭&amp;nbsp;rectangles for actions.&lt;/li&gt;
 &lt;li&gt;Break a larger project down into small tasks, and assign each task to individual team members. They can estimate timeframes using a &lt;a href="https://www.projectmanager.com/gantt-chart"&gt;Gantt chart&lt;/a&gt; on paper.&lt;/li&gt;
 &lt;li&gt;Draw sketches of what their program/game/project/website will look like.&lt;/li&gt;
-&lt;/ul&gt;</content></entry></feed>
+&lt;/ul&gt;
+&lt;h1 id="where-to-from-here"&gt;Where to from here?&lt;/h1&gt;
+&lt;p&gt;The &lt;a href="http://digitaltechnologieshub.edu.au"&gt;Digital Technologies Hub&lt;/a&gt; has units, lesson plans, and links to heaps of resources.
+The &lt;a href="https://csermoocs.appspot.com"&gt;Computer Science MOOC&lt;/a&gt; from the University of Adelaide is a great PD that runs through more options for your year level.&lt;/p&gt;
+&lt;p&gt;I'll post an organised bunch of DigiTech links/resources in a future post, so sign up to the mailing list to stay in the loop.&lt;/p&gt;</content></entry></feed>
