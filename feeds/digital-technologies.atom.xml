@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Tom's Teaching Tidbits - Digital Technologies</title><link href="http://classgen.com/blog/" rel="alternate"></link><link href="http://classgen.com/blog/feeds/digital-technologies.atom.xml" rel="self"></link><id>http://classgen.com/blog/</id><updated>2018-07-22T11:00:00+09:30</updated><entry><title>Digital Technologies? Help me! Where do I even start?</title><link href="http://classgen.com/blog/digital-technologies-help-me-where-do-i-even-start.html" rel="alternate"></link><published>2018-07-22T11:00:00+09:30</published><updated>2018-07-22T11:00:00+09:30</updated><author><name>Tom Ranieri</name></author><id>tag:classgen.com,2018-07-22:/blog/digital-technologies-help-me-where-do-i-even-start.html</id><summary type="html">&lt;div class="toc"&gt;&lt;span class="toctitle"&gt;Table of contents:&lt;/span&gt;&lt;ul&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Tom's Teaching Tidbits - Digital Technologies</title><link href="https://addictedtolearning.github.io/classgen-blog/" rel="alternate"></link><link href="https://addictedtolearning.github.io/classgen-blog/feeds/digital-technologies.atom.xml" rel="self"></link><id>https://addictedtolearning.github.io/classgen-blog/</id><updated>2018-07-22T11:00:00+09:30</updated><entry><title>Digital Technologies? Help me! Where do I even start?</title><link href="https://addictedtolearning.github.io/classgen-blog/digital-technologies-help-me-where-do-i-even-start.html" rel="alternate"></link><published>2018-07-22T11:00:00+09:30</published><updated>2018-07-22T11:00:00+09:30</updated><author><name>Tom Ranieri</name></author><id>tag:addictedtolearning.github.io,2018-07-22:/classgen-blog/digital-technologies-help-me-where-do-i-even-start.html</id><summary type="html">&lt;div class="toc"&gt;&lt;span class="toctitle"&gt;Table of contents:&lt;/span&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href="#introduction"&gt;Introduction&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#foundation-to-year-2"&gt;Foundation to Year 2&lt;/a&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href="#with-tech-beebots"&gt;💻 With tech: BeeBots 🐝&lt;/a&gt;&lt;/li&gt;
@@ -60,7 +60,7 @@
 &lt;h2 id="foundation-to-year-2"&gt;Foundation to Year 2&lt;/h2&gt;
 &lt;h3 id="with-tech-beebots"&gt;💻 With tech: BeeBots 🐝&lt;/h3&gt;
 &lt;video autoplay loop style="width:40%;padding:0px 10px; float:right"&gt;
-  &lt;source src="http://classgen.com/blog/images/beebot-obstacle-course-short-compressed.mp4" type="video/mp4"&gt;
+  &lt;source src="https://addictedtolearning.github.io/classgen-blog/images/beebot-obstacle-course-short-compressed.mp4" type="video/mp4"&gt;
 &lt;/video&gt;
 
 &lt;p&gt;&lt;strong&gt;Using:&lt;/strong&gt; BeeBots (about $120, can be used in small groups)&lt;/p&gt;
@@ -86,7 +86,7 @@
 &lt;p&gt;Wanna know a secret? The one on the left is from Digital Technologies, and the one on the right is from Mathematics. They're not the same, but they're pretty darn close. There are a few of these hidden throughout the &lt;s&gt;National Curriculum&lt;/s&gt;, &lt;s&gt;ACARA&lt;/s&gt; Australian Curriculum, like super-secret Easter eggs. Watch out for the same things in other learning areas.&lt;/p&gt;
 &lt;blockquote style="display:flex;align-items: center;"&gt;
  &lt;video autoplay loop style="width:40%;padding:0px 10px; "&gt;
-  &lt;source src="http://classgen.com/blog/images/thinking_meme.mp4" type="video/mp4"&gt;
+  &lt;source src="https://addictedtolearning.github.io/classgen-blog/images/thinking_meme.mp4" type="video/mp4"&gt;
 &lt;/video&gt;&lt;p&gt;If you've covered the rest of the Australian Curriculum, then you've already started your Digital Technologies journey&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -95,7 +95,7 @@
 &lt;h3 id="with-tech-lego-mindstorms"&gt;💻 With tech: LEGO Mindstorms 🤖&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Using:&lt;/strong&gt; LEGO Mindstorms EV3 (about $390 per kit, can be used in very small groups), typically with an iPad&lt;/p&gt;
 &lt;video autoplay loop style="width:40%;padding:0px 10px; float:right"&gt;
-  &lt;source src="http://classgen.com/blog/images/ev3.mp4" type="video/mp4"&gt;
+  &lt;source src="https://addictedtolearning.github.io/classgen-blog/images/ev3.mp4" type="video/mp4"&gt;
 &lt;/video&gt;
 
 &lt;p&gt;I love that before students start to program their robots with EV3, they need to build them.&lt;/p&gt;
@@ -114,7 +114,7 @@
 &lt;p&gt;I have so much respect for the impact that Scratch has had on CS education. Even though I love programming, I know that written code is a major turn-off for young coders. It's confusing and fussy and blegh.&lt;/p&gt;
 &lt;p&gt;Luckily, there ⛵-loads of resources around the place. Are you the kind of teacher that wants a structured eBook to get started? Then check out the &lt;a href="http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf"&gt;Creative Computing eBook&lt;/a&gt;, which has tonnes of ideas and resources to structure a Scratch unit.&lt;/p&gt;
 &lt;video autoplay loop style="width:40%;padding:0px 10px; float:right"&gt;
-  &lt;source src="http://classgen.com/blog/images/scratch_cool_cat.mp4" type="video/mp4"&gt;
+  &lt;source src="https://addictedtolearning.github.io/classgen-blog/images/scratch_cool_cat.mp4" type="video/mp4"&gt;
 &lt;/video&gt;
 
 &lt;h3 id="without-tech-binary-numbers"&gt;📝 Without tech: Binary numbers&lt;/h3&gt;
@@ -123,7 +123,7 @@
 &lt;h2 id="years-7-and-8"&gt;Years 7 and 8&lt;/h2&gt;
 &lt;h3 id="with-tech-bbc-microbit-30-each"&gt;💻 With tech: BBC Microbit ($30 each)&lt;/h3&gt;
 &lt;video autoplay loop style="width:40%;padding:0px 10px; float:right"&gt;
-  &lt;source src="http://classgen.com/blog/images/bbc_microbit.mp4" type="video/mp4"&gt;
+  &lt;source src="https://addictedtolearning.github.io/classgen-blog/images/bbc_microbit.mp4" type="video/mp4"&gt;
 &lt;/video&gt;
 
 &lt;p&gt;&lt;a href="http://microbit.org/"&gt;BBC Microbit&lt;/a&gt; combines the drag-and-drop ease-of-use of Scratch with a microcontroller (tiny computer) that is packed with sensors. It's got 💡light, 🌏compass and 🌡temperature sensors, and has 🎮buttons, a 📺screen and heaps of cool other stuff.&lt;/p&gt;
