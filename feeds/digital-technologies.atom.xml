@@ -18,9 +18,7 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;a href="#years-7-and-8"&gt;Years 7 and 8&lt;/a&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href="#with-tech-bbc-microbit-30-each"&gt;💻 With tech: BBC Microbit ($30 each)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="#years-9-and-10"&gt;Years 9 …&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="toc"&gt;&lt;span class="toctitle"&gt;Table of contents:&lt;/span&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="#without-tech-group-chat"&gt;📝 Without tech …&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="toc"&gt;&lt;span class="toctitle"&gt;Table of contents:&lt;/span&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href="#introduction"&gt;Introduction&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#foundation-to-year-2"&gt;Foundation to Year 2&lt;/a&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href="#with-tech-beebots"&gt;💻 With tech: BeeBots 🐝&lt;/a&gt;&lt;/li&gt;
@@ -39,6 +37,7 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;a href="#years-7-and-8"&gt;Years 7 and 8&lt;/a&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href="#with-tech-bbc-microbit-30-each"&gt;💻 With tech: BBC Microbit ($30 each)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#without-tech-group-chat"&gt;📝 Without tech: Group chat 💬&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href="#years-9-and-10"&gt;Years 9 and 10&lt;/a&gt;&lt;ul&gt;
@@ -105,14 +104,14 @@
 &lt;li&gt;collaborating via the "why doesn't mine look like yours?", and "how did you do this bit?"&lt;/li&gt;
 &lt;li&gt;problem-solving issues along the way, and building resilience in the process&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;In the programming itself, I seen the LEGO EV3 robots used with Year 3, 4, 10 and even &lt;a href="https://www.adelaide.edu.au/course-outlines/006263/1/sem-2"&gt;university-level students&lt;/a&gt;. There is a lot of scope to go up or down.&lt;/p&gt;
+&lt;p&gt;In the programming itself, I've seen the LEGO EV3 robots used with Year 3, 4, 10 and even &lt;a href="https://www.adelaide.edu.au/course-outlines/006263/1/sem-2"&gt;university-level students&lt;/a&gt;. There is a lot of scope to go up or down.&lt;/p&gt;
 &lt;h3 id="without-tech-unplugged"&gt;📝 Without tech: Unplugged 🔌&lt;/h3&gt;
 &lt;p&gt;We're getting into CS Unplugged territory here -- a great resource!&lt;/p&gt;
 &lt;p&gt;CS Unplugged have loads of resources for this age group, like the &lt;a href="https://csunplugged.org/en/topics/kidbots/"&gt;kidbots unit plan&lt;/a&gt;. This is probably my favourite technique to teach computer science: get students to plan out an algorithm, then physically walk out that algorithm. You can also get the kids to give instructions for you, which makes for &lt;a href="https://youtu.be/cDA3_5982h8"&gt;a very entertaining lesson&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id="years-5-and-6"&gt;Years 5 and 6&lt;/h2&gt;
 &lt;h3 id="with-tech-scratch"&gt;💻 With tech: Scratch 😸&lt;/h3&gt;
 &lt;p&gt;I have so much respect for the impact that Scratch has had on CS education. Even though I love programming, I know that written code is a major turn-off for young coders. It's confusing and fussy and blegh.&lt;/p&gt;
-&lt;p&gt;Luckily, there ⛵-loads of resources around the place. Are you the kind of teacher that wants a structured eBook to get started? Then check out the &lt;a href="http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf"&gt;Creative Computing eBook&lt;/a&gt;, which has tonnes of ideas and resources to structure a Scratch unit.&lt;/p&gt;
+&lt;p&gt;Luckily, there are ⛵-loads of resources around the place. Are you the kind of teacher that wants a structured eBook to get started? Then check out the &lt;a href="http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf"&gt;Creative Computing eBook&lt;/a&gt;, which has tonnes of ideas and resources to structure a Scratch unit.&lt;/p&gt;
 &lt;video autoplay loop style="width:40%;padding:0px 10px; float:right"&gt;
   &lt;source src="http://blog.classgen.com/images/scratch_cool_cat.mp4" type="video/mp4"&gt;
 &lt;/video&gt;
@@ -129,6 +128,12 @@
 &lt;p&gt;&lt;a href="http://microbit.org/"&gt;BBC Microbit&lt;/a&gt; combines the drag-and-drop ease-of-use of Scratch with a microcontroller (tiny computer) that is packed with sensors. It's got 💡light, 🌏compass and 🌡temperature sensors, and has 🎮buttons, a 📺screen and heaps of cool other stuff.&lt;/p&gt;
 &lt;p&gt;It is so easy to set up and use compared to an Arduino. I love Arduino to bits as a programmer, but you can tear your hair out trying to troubleshoot an entire screaming classroom of wires-in-the-wrong-places and struggle to get anywhere.&lt;/p&gt;
 &lt;p&gt;Get the kids comfy with a Microbit first, then bust out the Arduino for the cluey coders in your class.&lt;/p&gt;
+&lt;h3 id="without-tech-group-chat"&gt;📝 Without tech: Group chat 💬&lt;/h3&gt;
+&lt;p&gt;Acquire data from a range of sources and evaluate authenticity, accuracy and timeliness (ACTDIP025)&lt;/p&gt;
+&lt;p&gt;We know that modern tech brings advantages, but it also brings a huge variety of social issues. What better way to combat this, than with open group discussions with your students?&lt;/p&gt;
+&lt;p&gt;The &lt;a href="https://www.esafety.gov.au/education-resources/classroom-resources"&gt;eSafety&lt;/a&gt; website is funded by the Aussie government, and has tonnes of resources to help you out. In Year 7/8, there are lesson plans and worksheets for &lt;a href="https://www.esafety.gov.au/-/media/cesc/documents/standalone-lesson-plans/lesson-plan-doc-lower-secondary-digital-citizenship.doc"&gt;digital citizenship&lt;/a&gt; &lt;a href="https://www.esafety.gov.au/-/media/cesc/documents/standalone-lesson-plans/lesson-plan-doc-lower-secondary-sexting.doc"&gt;sexting&lt;/a&gt; and &lt;a href="https://www.esafety.gov.au/-/media/cesc/documents/standalone-lesson-plans/lesson-plan-doc-lower-secondary-cyberbullying.doc"&gt;cyberbullying&lt;/a&gt;. All of these can be done even without a projector or IWB! While the worksheets are great, they also make a great stimulus for a class chat.&lt;/p&gt;
+&lt;p&gt;My Year 8 students reacted really well to the &lt;a href="https://www.esafety.gov.au/education-resources/classroom-resources/tagged"&gt;Tagged&lt;/a&gt; eSafety unit. I think they even surprised themselves with a maturity that they never knew they had!&lt;/p&gt;
+&lt;p&gt;Remember to use &lt;a href="/images/groupnorms.png"&gt;group norms&lt;/a&gt;, like in the &lt;a href="http://www.stg.catholic.edu.au/__files/f/5344/Keeping_Safe_CALD-2b8o5j0.pdf"&gt;Child Protection Curriculum&lt;/a&gt; (page 11).&lt;/p&gt;
 &lt;h2 id="years-9-and-10"&gt;Years 9 and 10&lt;/h2&gt;
 &lt;h3 id="with-tech-grok-learning-ncss-challenge-20-per-year-per-student-or-30-per-student-for-all-access"&gt;💻 With tech: Grok Learning NCSS Challenge ($20 per year, per student, or $30 per student for all-access)&lt;/h3&gt;
 &lt;p&gt;The Grok Learning NCSS challenge is amazing 😍. I've used it with Year 9 to 12 students, and every single time it is an absolute godsend 😇🙏🙌.&lt;/p&gt;

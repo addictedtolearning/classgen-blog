@@ -840,3 +840,11 @@ body {
 #post-share-links {
   text-align: center;
 }
+
+
+.fa-external-link-alt {
+  font-size: 0.8em;
+  opacity: 0.7;
+  vertical-align: top;
+  margin: 2px 4px;
+}
