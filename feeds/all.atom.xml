@@ -58,7 +58,7 @@
 &lt;/blockquote&gt;
 &lt;h2 id="foundation-to-year-2"&gt;Foundation to Year 2&lt;/h2&gt;
 &lt;h3 id="with-tech-beebots"&gt;💻 With tech: BeeBots 🐝&lt;/h3&gt;
-&lt;video autoplay loop style="width:40%;padding:0px 10px; float:right"&gt;
+&lt;video autoplay muted loop style="width:40%;padding:0px 10px; float:right"&gt;
   &lt;source src="https://blog.classgen.com/images/beebot-obstacle-course-short-compressed.mp4" type="video/mp4"&gt;
 &lt;/video&gt;
 
@@ -84,7 +84,7 @@
 
 &lt;p&gt;Wanna know a secret? The one on the left is from Digital Technologies, and the one on the right is from Mathematics. They're not the same, but they're pretty darn close. There are a few of these hidden throughout the &lt;s&gt;National Curriculum&lt;/s&gt;, &lt;s&gt;ACARA&lt;/s&gt; Australian Curriculum, like super-secret Easter eggs. Watch out for the same things in other learning areas.&lt;/p&gt;
 &lt;blockquote style="display:flex;align-items: center;"&gt;
- &lt;video autoplay loop style="width:40%;padding:0px 10px; "&gt;
+ &lt;video autoplay muted loop style="width:40%;padding:0px 10px; "&gt;
   &lt;source src="https://blog.classgen.com/images/thinking_meme.mp4" type="video/mp4"&gt;
 &lt;/video&gt;&lt;p&gt;If you've covered the rest of the Australian Curriculum, then you've already started your Digital Technologies journey&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -93,7 +93,7 @@
 &lt;h2 id="years-3-and-4"&gt;Years 3 and 4&lt;/h2&gt;
 &lt;h3 id="with-tech-lego-mindstorms"&gt;💻 With tech: LEGO Mindstorms 🤖&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Using:&lt;/strong&gt; LEGO Mindstorms EV3 (about $390 per kit, can be used in very small groups), typically with an iPad&lt;/p&gt;
-&lt;video autoplay loop style="width:40%;padding:0px 10px; float:right"&gt;
+&lt;video autoplay muted loop style="width:40%;padding:0px 10px; float:right"&gt;
   &lt;source src="https://blog.classgen.com/images/ev3.mp4" type="video/mp4"&gt;
 &lt;/video&gt;
 
@@ -112,7 +112,7 @@
 &lt;h3 id="with-tech-scratch"&gt;💻 With tech: Scratch 😸&lt;/h3&gt;
 &lt;p&gt;I have so much respect for the impact that Scratch has had on CS education. Even though I love programming, I know that written code is a major turn-off for young coders. It's confusing and fussy and blegh.&lt;/p&gt;
 &lt;p&gt;Luckily, there are ⛵-loads of resources around the place. Are you the kind of teacher that wants a structured eBook to get started? Then check out the &lt;a href="http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf"&gt;Creative Computing eBook&lt;/a&gt;, which has tonnes of ideas and resources to structure a Scratch unit.&lt;/p&gt;
-&lt;video autoplay loop style="width:40%;padding:0px 10px; float:right"&gt;
+&lt;video autoplay muted loop style="width:40%;padding:0px 10px; float:right"&gt;
   &lt;source src="https://blog.classgen.com/images/scratch_cool_cat.mp4" type="video/mp4"&gt;
 &lt;/video&gt;
 
@@ -121,7 +121,7 @@
 &lt;p&gt;The beauty about their classic &lt;a href="https://classic.csunplugged.org/wp-content/uploads/2014/12/unplugged-01-binary_numbers.pdf"&gt;binary numbers&lt;/a&gt; lesson plan is that it is just so versatile. I've used it with Year 11 students and we had a boatload of fun. Well, I had fun, and that's what counts, right? 🤷&lt;/p&gt;
 &lt;h2 id="years-7-and-8"&gt;Years 7 and 8&lt;/h2&gt;
 &lt;h3 id="with-tech-bbc-microbit-30-each"&gt;💻 With tech: BBC Microbit ($30 each)&lt;/h3&gt;
-&lt;video autoplay loop style="width:40%;padding:0px 10px; float:right"&gt;
+&lt;video autoplay muted loop style="width:40%;padding:0px 10px; float:right"&gt;
   &lt;source src="https://blog.classgen.com/images/bbc_microbit.mp4" type="video/mp4"&gt;
 &lt;/video&gt;
 
