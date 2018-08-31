@@ -287,6 +287,7 @@ figure.left {
 #banner {
   margin: 0 auto;
   padding: 2.5em 0 0 0;
+  position: relative
 }
 
 /* Banner */
@@ -315,6 +316,29 @@ figure.left {
 #banner h1 strong {
   font-size: 0.36em;
   font-weight: normal;
+}
+
+.banner-logo {
+  position: absolute;
+  right: 0;
+  top: 17px;
+  transition:0.4s all;
+  filter: brightness(1);
+      border-radius: 11px;
+  line-height:0;
+  font-size:0;
+  padding:0 !important;
+}
+
+.banner-logo i {
+  display:none;
+}
+
+.banner-logo:hover {
+  background:none;
+  filter: brightness(1.25);
+  box-shadow : 3px 3px 0px rgba(0,0,0,0.5);
+  transform:translate(-3px, -3px)
 }
 
 /* Main Nav */
@@ -495,7 +519,7 @@ figure.left {
 /* Social */
 
 .social {
-  width: 175px; 
+  width: 175px;
 }
 
 .share-buttons a {
@@ -848,3 +872,53 @@ body {
   vertical-align: top;
   margin: 2px 4px;
 }
+
+
+
+.simple-footnotes {
+  border-top: #777 1px dotted;
+}
+
+a.simple-footnote {
+  position: relative;
+  border-radius: 5px;
+  background: #C74350;
+  color: white;
+  padding: 3px;
+  text-decoration: none;
+}
+
+.simple-footnote::before {
+  content: '['
+}
+
+
+.simple-footnote::after {
+  content: ']'
+}
+
+/*a {
+  position:relative;
+  overflow:hidden;
+  z-index:0;
+  transition: 0.4s all;
+}
+a::before {
+  content:' ';
+  display:block;
+  position:absolute;
+  left:0;right:0;top:0;bottom:0;
+  background:linear-gradient(90deg,#C74350 0% ,  #C74350 99%,  rgba(255,255,255,0) 100%);
+  background-position: 0% 0%;
+  transform:scaleX(0);
+  transition : 0.4s all;
+  z-index:-1;
+}
+a:hover::before {
+  transform:scaleX(1);
+}
+a:hover {
+  background:none;
+  text-decoration:none;
+  text-shadow:none;
+}*/
