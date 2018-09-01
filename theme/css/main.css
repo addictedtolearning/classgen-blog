@@ -519,7 +519,7 @@ figure.left {
 /* Social */
 
 .social {
-  width: 175px;
+  /*width: 175px;*/
 }
 
 .share-buttons a {
@@ -533,6 +533,11 @@ figure.left {
 
 .share-buttons a[href*='about.me'] {
   background-image: url('../images/icons/aboutme.png');
+}
+
+.share-buttons a[href*='classgen.com'] {
+  background-image: url(/favicon.ico);
+  background-size: 16px;
 }
 
 .share-buttons a[href*='bitbucket.org'] {
@@ -895,6 +900,10 @@ a.simple-footnote {
 
 .simple-footnote::after {
   content: ']'
+}
+
+big {
+  font-size:150%
 }
 
 /*a {
