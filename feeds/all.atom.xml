@@ -90,7 +90,7 @@
 &lt;li&gt;&lt;a href="http://www.sharodickerson.com/my-publications/the-importance-of-structure-in-learning"&gt;Effective learning must not be structured&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;div&gt;🙅 Every child understands the instructions, but &lt;a href="https://www.understood.org/en/learning-attention-issues/child-learning-disabilities/distractibility-inattention/why-some-kids-have-trouble-following-directions"&gt;some just choose not to follow them&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Australia is better at education than China.&lt;/p&gt;
+&lt;p&gt;🌏 Australia is better at education than China.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;While there are many reasons why Australia is a wonderful country, we can't pretend that we are generally better at educating.&lt;/li&gt;
 &lt;li&gt;For example, Chinese students do better in both mathematics and science.&lt;/li&gt;
@@ -103,7 +103,7 @@
 &lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Well, okay, maybe we don't do well in mathematics or science. But our kids are more resilient, right? And we do better in STEM, yeah? And our kids are SURELY better at all that 21st-century-learning, future-workforce stuff!&lt;/p&gt;
+&lt;p&gt;💪 Well, okay, maybe we don't do well in mathematics or science. But our kids are more resilient, right? And we do better in STEM, yeah? And our kids are SURELY better at all that 21st-century-learning, future-workforce stuff!&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=aus_prc_images&gt;
 &lt;img src="/images/aus_prc/schoolwork_anxiety.png" style=width:30%&gt;
 &lt;img src="/images/aus_prc/resilience.png" style=width:30%&gt;
@@ -164,26 +164,15 @@ for(var i=0; i&lt;els.length; i++ ) {
   text-align:center;
   width:100%;
 }
-  &lt;/style&gt;&lt;/p&gt;&lt;ol class=simple-footnotes&gt;&lt;li id=sf-21-falsehoods-that-people-believe-about-education-1&gt;Obviously China has lots of people, so we'd expect them to have a better scientific output than Australia &lt;a href=#sf-21-falsehoods-that-people-believe-about-education-1-back class=simple-footnote-back&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</content></entry><entry><title>Digital Technologies? Help me! Where do I even start?</title><link href="https://blog.classgen.com/digital-technologies-help-me-where-do-i-even-start.html" rel="alternate"></link><published>2018-08-08T17:17:00+09:30</published><updated>2018-08-08T17:17:00+09:30</updated><author><name>Tom Ranieri</name></author><id>tag:blog.classgen.com,2018-08-08:/digital-technologies-help-me-where-do-i-even-start.html</id><summary type="html">&lt;div class="toc"&gt;&lt;span class="toctitle"&gt;Table of contents:&lt;/span&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href="#introduction"&gt;Introduction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#foundation-to-year-2"&gt;Foundation to Year 2&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href="#with-tech-beebots"&gt;💻 With tech: BeeBots 🐝&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#without-tech-reduce-reuse-recycle"&gt;📝 Without tech: Reduce, reuse, recycle&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="#years-3-and-4"&gt;Years 3 and 4&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href="#with-tech-lego-mindstorms"&gt;💻 With tech: LEGO Mindstorms 🤖&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#without-tech-unplugged"&gt;📝 Without tech: Unplugged 🔌&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="#years-5-and-6"&gt;Years 5 and 6&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href="#with-tech-scratch"&gt;💻 With tech: Scratch 😸&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#without-tech-binary-numbers"&gt;📝 Without tech: Binary numbers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="#years-7-and-8"&gt;Years 7 and 8&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href="#with-tech-bbc-microbit-30-each"&gt;💻 With tech: BBC Microbit ($30 each)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#without-tech-group-chat"&gt;📝 Without tech …&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="toc"&gt;&lt;span class="toctitle"&gt;Table of contents:&lt;/span&gt;&lt;ul&gt;
+  &lt;/style&gt;&lt;/p&gt;&lt;ol class=simple-footnotes&gt;&lt;li id=sf-21-falsehoods-that-people-believe-about-education-1&gt;Obviously China has lots of people, so we'd expect them to have a better scientific output than Australia &lt;a href=#sf-21-falsehoods-that-people-believe-about-education-1-back class=simple-footnote-back&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</content></entry><entry><title>Digital Technologies? Help me! Where do I even start?</title><link href="https://blog.classgen.com/digital-technologies-help-me-where-do-i-even-start.html" rel="alternate"></link><published>2018-08-08T17:17:00+09:30</published><updated>2018-08-08T17:17:00+09:30</updated><author><name>Tom Ranieri</name></author><id>tag:blog.classgen.com,2018-08-08:/digital-technologies-help-me-where-do-i-even-start.html</id><summary type="html">
+So you've been told that you have to deliver Digital Technologies. &lt;/p&gt;
+&lt;p&gt;We often forget our students don't even have to touch anything digital, beeping, glowing, or electronic to learn digital technologies.&lt;/p&gt;
+&lt;p&gt;For my first magic trick today, I'm going to give &lt;strong&gt;two ideas for every DigiTech band, from Foundation to Year 10&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;And just to make it more interesting, I'll do it blindfolded, with two hands tied behind my back, and &lt;strong&gt;for each band, I'll give an idea that doesn't use anything techy&lt;/strong&gt;. That means something you can do with &lt;strong&gt;🚫no iPad&lt;/strong&gt;, &lt;strong&gt;🚫nothing that beeps or lights up&lt;/strong&gt;, and &lt;strong&gt;🚫 no gosh-darn fancy-pants electricity&lt;/strong&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;"Computer science is no more about computers than astronomy is about telescopes."&lt;/strong&gt; - Edsger Dijkstra&lt;/p&gt;
+&lt;/blockquote&gt;
+</summary><content type="html">&lt;div class="toc"&gt;&lt;span class="toctitle"&gt;Table of contents:&lt;/span&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href="#introduction"&gt;Introduction&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#foundation-to-year-2"&gt;Foundation to Year 2&lt;/a&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href="#with-tech-beebots"&gt;💻 With tech: BeeBots 🐝&lt;/a&gt;&lt;/li&gt;
@@ -214,13 +203,16 @@ for(var i=0; i&lt;els.length; i++ ) {
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;So you've been told that you have to deliver Digital Technologies. &lt;/p&gt;
+&lt;p&gt;
+So you've been told that you have to deliver Digital Technologies. &lt;/p&gt;
 &lt;p&gt;We often forget our students don't even have to touch anything digital, beeping, glowing, or electronic to learn digital technologies.&lt;/p&gt;
 &lt;p&gt;For my first magic trick today, I'm going to give &lt;strong&gt;two ideas for every DigiTech band, from Foundation to Year 10&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;And just to make it more interesting, I'll do it blindfolded, with two hands tied behind my back, and &lt;strong&gt;for each band, I'll give an idea that doesn't use anything techy&lt;/strong&gt;. That means something you can do with &lt;strong&gt;🚫no iPad&lt;/strong&gt;, &lt;strong&gt;🚫nothing that beeps or lights up&lt;/strong&gt;, and &lt;strong&gt;🚫 no gosh-darn fancy-pants electricity&lt;/strong&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;"Computer science is no more about computers than astronomy is about telescopes."&lt;/strong&gt; - Edsger Dijkstra&lt;/p&gt;
 &lt;/blockquote&gt;
+
+
 &lt;h2 id="foundation-to-year-2"&gt;Foundation to Year 2&lt;/h2&gt;
 &lt;h3 id="with-tech-beebots"&gt;💻 With tech: BeeBots 🐝&lt;/h3&gt;
 &lt;video autoplay muted loop style="width:40%;padding:0px 10px; float:right"&gt;

@@ -168,7 +168,10 @@ li {
 }
 
 .readmore {
-  float: right
+  display: table;
+  text-align: center;
+  font-size: 2em;
+  margin:0px auto;
 }
 
 dl {
@@ -322,23 +325,23 @@ figure.left {
   position: absolute;
   right: 0;
   top: 17px;
-  transition:0.4s all;
+  transition: 0.4s all;
   filter: brightness(1);
-      border-radius: 11px;
-  line-height:0;
-  font-size:0;
-  padding:0 !important;
+  border-radius: 11px;
+  line-height: 0;
+  font-size: 0;
+  padding: 0 !important;
 }
 
 .banner-logo i {
-  display:none;
+  display: none;
 }
 
 .banner-logo:hover {
-  background:none;
+  background: none;
   filter: brightness(1.25);
-  box-shadow : 3px 3px 0px rgba(0,0,0,0.5);
-  transform:translate(-3px, -3px)
+  box-shadow: 3px 3px 0px rgba(0, 0, 0, 0.5);
+  transform: translate(-3px, -3px)
 }
 
 /* Main Nav */
@@ -756,7 +759,7 @@ li:last-child .hentry,
 #posts-list footer {
   left: 10px;
   position: relative;
-  float: left;
+  float: right;
   top: 0.5em;
   width: 190px;
 }
@@ -903,7 +906,7 @@ a.simple-footnote {
 }
 
 big {
-  font-size:150%
+  font-size: 150%
 }
 
 /*a {
